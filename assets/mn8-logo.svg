@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" role="img" aria-labelledby="title description">
+  <title id="title">MN8</title>
+  <desc id="description">Logo MN8 con brújula geométrica secundaria</desc>
+  <g fill="none" fill-rule="evenodd">
+    <text x="24" y="184" fill="#123B5D" font-family="Segoe UI, Arial, sans-serif" font-size="176" font-weight="700" letter-spacing="4">MN8</text>
+    <g transform="translate(760 120)">
+      <circle r="74" stroke="#123B5D" stroke-width="8"/>
+      <circle r="8" fill="#123B5D"/>
+      <path d="M0-54 15-8 0 0-15-8Z" fill="#2A9D8F"/>
+      <path d="M0 54 15 8 0 0-15 8Z" fill="#123B5D"/>
+      <path d="M0-74V-62M74 0H62M0 74V62M-74 0H-62" stroke="#6C757D" stroke-width="5" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
