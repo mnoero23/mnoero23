@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Isotipo MN8</title>
+  <desc id="description">Brújula geométrica de la identidad MN8</desc>
+  <g fill="none" fill-rule="evenodd" transform="translate(256 256)">
+    <circle r="172" stroke="#123B5D" stroke-width="20"/>
+    <circle r="18" fill="#123B5D"/>
+    <path d="M0-132 37-19 0 0-37-19Z" fill="#2A9D8F"/>
+    <path d="M0 132 37 19 0 0-37 19Z" fill="#123B5D"/>
+    <path d="M0-172V-142M172 0H142M0 172V142M-172 0H-142" stroke="#6C757D" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,12 +1,6 @@
-<div align="center">
-
-# MN8
-
-## Rumbo al Norte.
-
-Datos · Dirección · Propósito
-
-</div>
+<h1 align="center">
+  <img src="./assets/mn8-github-header.png" alt="MN8 — Rumbo al Norte. Datos · Dirección · Propósito" width="100%">
+</h1>
 
 ## Hola, soy Matías Noero
 
