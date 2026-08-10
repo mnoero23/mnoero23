@@ -1,8 +1,8 @@
-<h1 align="center">
+<p align="center">
   <img src="./assets/mn8-github-header.png" alt="MN8 — Rumbo al Norte. Datos · Dirección · Propósito" width="100%">
-</h1>
+</p>
 
-## Hola, soy Matías Noero
+# Hola, soy Matías Noero
 
 Transformo datos en decisiones y construyo soluciones que buscan resolver problemas reales de forma clara, útil y profesional.
 
@@ -19,11 +19,11 @@ Trabajo en la intersección entre Data Analytics, Business Intelligence, automat
 
 `Python` · `SQL` · `Power BI` · `Pandas` · `Streamlit` · `Git` · `GitHub` · `Excel`
 
-## Proyecto destacado
-
-### Envaplast Analytics
+## Proyecto destacado — Envaplast Analytics
 
 Business Intelligence Platform para análisis comercial, financiero y operativo.
+
+<!-- Captura real de Envaplast Analytics pendiente. No incorporar imágenes generadas. -->
 
 - Dashboard ejecutivo
 - Facturación y ventas
@@ -46,8 +46,6 @@ Navegar con dirección.
 
 ---
 
-<div align="center">
-
+<p align="center">
 MN8 · 2026
-
-</div>
+</p>
