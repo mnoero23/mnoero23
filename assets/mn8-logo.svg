@@ -1,17 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 240" role="img" aria-labelledby="title description">
-  <title id="title">MN8</title>
-  <desc id="description">Wordmark geométrico MN8 con una brújula integrada de forma secundaria en el número 8</desc>
-  <g fill="#123B5D">
-    <path d="M30 200V40h46l64 91 64-91h46v160h-44v-92l-51 72h-30l-51-72v92z"/>
-    <path d="M300 200V40h42l108 95V40h46v160h-42l-108-96v96z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" role="img" aria-labelledby="title description">
+  <title id="title">MN8 Logo Master v1.0</title>
+  <desc id="description">Wordmark MN8 de trazo medio con un 8 continuo y una brújula secundaria en su intersección</desc>
+  <g fill="none" stroke="#123B5D" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 198V46L140 160 250 46V198"/>
+    <path d="M310 198V46L500 198V46"/>
   </g>
-  <g fill="none" stroke="#123B5D" stroke-width="24">
-    <circle cx="620" cy="82" r="56"/>
-    <circle cx="620" cy="158" r="56"/>
-  </g>
-  <g transform="translate(620 158)">
-    <circle r="6" fill="#123B5D"/>
-    <path d="M0-34 10-5 0 0-10-5Z" fill="#2A9D8F"/>
-    <path d="M0 34 10 5 0 0-10 5Z" fill="#123B5D"/>
+  <path d="M620 120C510 78 510 38 620 38S730 78 620 120C510 162 510 202 620 202S730 162 620 120" fill="none" stroke="#123B5D" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(620 120) scale(.85)">
+    <path d="M0-20 8 0 0 5-8 0Z" fill="#2A9D8F"/>
+    <path d="M0 20 8 0 0-5-8 0Z" fill="#123B5D"/>
   </g>
 </svg>

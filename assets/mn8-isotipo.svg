@@ -1,13 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
-  <title id="title">Isotipo MN8</title>
-  <desc id="description">Número 8 geométrico con una brújula integrada de forma secundaria</desc>
-  <g fill="none" stroke="#123B5D" stroke-width="30">
-    <circle cx="256" cy="184" r="108"/>
-    <circle cx="256" cy="328" r="108"/>
-  </g>
-  <g transform="translate(256 328)">
-    <circle r="10" fill="#123B5D"/>
-    <path d="M0-64 18-10 0 0-18-10Z" fill="#2A9D8F"/>
-    <path d="M0 64 18 10 0 0-18 10Z" fill="#123B5D"/>
+  <title id="title">MN8 Isotipo Master v1.0</title>
+  <desc id="description">Número 8 construido como un único trazo continuo con una brújula secundaria en su intersección</desc>
+  <path d="M256 256C80 176 80 96 256 96S432 176 256 256C80 336 80 416 256 416S432 336 256 256" fill="none" stroke="#123B5D" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(256 256) scale(.85)">
+    <path d="M0-22 9 0 0 6-9 0Z" fill="#2A9D8F"/>
+    <path d="M0 22 9 0 0-6-9 0Z" fill="#123B5D"/>
   </g>
 </svg>
