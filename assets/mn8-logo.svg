@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 240" role="img" aria-labelledby="title description">
   <title id="title">MN8 Logo Master v1.0</title>
-  <desc id="description">Wordmark MN8 de trazo medio con un 8 continuo y una brújula secundaria en su intersección</desc>
-  <g fill="none" stroke="#123B5D" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M30 198V46L140 160 250 46V198"/>
-    <path d="M310 198V46L500 198V46"/>
+  <desc id="description">Wordmark MN8 Tecno de trazo fino con un 8 compacto rectangular redondeado y brújula central secundaria</desc>
+  <g fill="none" stroke="#123B5D" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 196V44L130 148 230 44V196"/>
+    <path d="M310 196V44L480 196V44"/>
   </g>
-  <path d="M620 120C510 78 510 38 620 38S730 78 620 120C510 162 510 202 620 202S730 162 620 120" fill="none" stroke="#123B5D" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
-  <g transform="translate(620 120) scale(.85)">
-    <path d="M0-20 8 0 0 5-8 0Z" fill="#2A9D8F"/>
-    <path d="M0 20 8 0 0-5-8 0Z" fill="#123B5D"/>
+  <g transform="translate(560 32) scale(1.1)">
+    <path d="M28 0H72C89 0 100 11 100 28V132C100 149 89 160 72 160H28C11 160 0 149 0 132V28C0 11 11 0 28 0ZM31 18H69C77 18 82 23 82 31V57C82 65 77 70 69 70H31C23 70 18 65 18 57V31C18 23 23 18 31 18ZM31 90H69C77 90 82 95 82 103V129C82 137 77 142 69 142H31C23 142 18 137 18 129V103C18 95 23 90 31 90ZM50 71 58 80 50 89 42 80Z" fill="#123B5D" fill-rule="evenodd" clip-rule="evenodd"/>
+    <g transform="translate(50 80) scale(.85) translate(-50 -80)">
+      <path d="M50 70 56 80 50 83 44 80Z" fill="#2A9D8F"/>
+      <path d="M50 90 56 80 50 77 44 80Z" fill="#123B5D"/>
+    </g>
   </g>
 </svg>
