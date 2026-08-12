@@ -23,7 +23,11 @@ Trabajo en la intersección entre Data Analytics, Business Intelligence, automat
 
 Business Intelligence Platform para análisis comercial, financiero y operativo.
 
-<!-- Captura real de Envaplast Analytics pendiente. No incorporar imágenes generadas. -->
+<p align="center">
+  <a href="https://envaplast-analytics.streamlit.app/">
+    <img src="https://raw.githubusercontent.com/mnoero23/envaplast-analytics/main/docs/assets/dashboard-overview.png" alt="Resumen ejecutivo de Envaplast Analytics" width="100%">
+  </a>
+</p>
 
 - Dashboard ejecutivo
 - Facturación y ventas
@@ -33,6 +37,10 @@ Business Intelligence Platform para análisis comercial, financiero y operativo.
 - Datos sintéticos
 
 [Live demo](https://envaplast-analytics.streamlit.app/) · [Repositorio](https://github.com/mnoero23/envaplast-analytics)
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/matias-noero-samper/) · [GitHub](https://github.com/mnoero23)
 
 ## Filosofía MN8
 
