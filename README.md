@@ -4,24 +4,15 @@
 
 # Hola, soy Matías Noero
 
-Transformo datos en decisiones y construyo soluciones que buscan resolver problemas reales de forma clara, útil y profesional.
+Transformo datos en decisiones y construyo soluciones que resuelven problemas reales de forma clara, útil y profesional.
 
 Trabajo en la intersección entre Data Analytics, Business Intelligence, automatización y productos de datos, combinando experiencia de negocio con herramientas técnicas.
 
-## En qué estoy trabajando
+## Proyectos destacados
 
-- **Envaplast Analytics** — plataforma BI comercial y financiera construida con datos sintéticos.
-- **MN8** — estudio personal para construir productos, conocimiento y una vida profesional con intención.
-- Automatización de procesos y herramientas internas.
-- Proyectos de análisis aplicados a finanzas, operaciones y Oil & Gas.
+### Envaplast Analytics · Proyecto insignia
 
-## Stack
-
-`Python` · `SQL` · `Power BI` · `Pandas` · `Streamlit` · `Git` · `GitHub` · `Excel`
-
-## Proyecto destacado — Envaplast Analytics
-
-Business Intelligence Platform para análisis comercial, financiero y operativo.
+Plataforma de Business Intelligence que convierte el circuito comercial de una PyME industrial ficticia —pedidos, facturación, cobranzas y clientes— en información confiable para decidir.
 
 <p align="center">
   <a href="https://envaplast-analytics.streamlit.app/">
@@ -29,14 +20,34 @@ Business Intelligence Platform para análisis comercial, financiero y operativo.
   </a>
 </p>
 
-- Dashboard ejecutivo
-- Facturación y ventas
-- Pedidos
-- Cuentas corrientes
-- Clientes y análisis ABC
-- Datos sintéticos
+- Cinco tableros ejecutivos sobre un único modelo comercial.
+- ETL incremental, reproducible e idempotente.
+- Controles automáticos de calidad de datos.
+- KPIs comerciales, cartera, mora y análisis ABC.
+- Aplicación Streamlit responsive con filtros y exportación CSV.
 
-[Live demo](https://envaplast-analytics.streamlit.app/) · [Repositorio](https://github.com/mnoero23/envaplast-analytics)
+[Demo en vivo](https://envaplast-analytics.streamlit.app/) · [Repositorio](https://github.com/mnoero23/envaplast-analytics) · [Versión estable v1.0.0](https://github.com/mnoero23/envaplast-analytics/releases/tag/v1.0.0)
+
+### Envaplast Cobranzas AI · Coder Cup 2026
+
+Producto desarrollado para convertir una cartera abierta en una cola de gestión accionable. Prioriza cuentas por riesgo e impacto, explica los factores del puntaje, recomienda la siguiente acción y genera un borrador editable sujeto a revisión humana.
+
+- Scoring explicable basado en saldo vencido, mora, límite de crédito y concentración.
+- Priorización orientada a la gestión diaria.
+- Recomendaciones y borradores editables.
+- Diseño human-in-the-loop: ninguna comunicación se envía automáticamente.
+
+[Demo en vivo](https://codercup-cobranzas-ai.streamlit.app/) · [Repositorio](https://github.com/mnoero23/codercup-cobranzas-ai)
+
+## En qué estoy trabajando
+
+- Automatización de procesos y herramientas internas.
+- Productos de datos aplicados a finanzas, operaciones y Oil & Gas.
+- **MN8** — estudio personal para construir productos, conocimiento y una vida profesional con intención.
+
+## Stack
+
+`Python` · `SQL` · `Power BI` · `Pandas` · `Streamlit` · `Git` · `GitHub` · `Excel`
 
 ## Contacto
 
