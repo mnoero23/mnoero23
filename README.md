@@ -28,16 +28,23 @@ Plataforma de Business Intelligence que convierte el circuito comercial de una P
 
 [Demo en vivo](https://envaplast-analytics.streamlit.app/) · [Repositorio](https://github.com/mnoero23/envaplast-analytics) · [Versión estable v1.0.0](https://github.com/mnoero23/envaplast-analytics/releases/tag/v1.0.0)
 
-### Envaplast Cobranzas AI · Coder Cup 2026
+### Cobranzas AI · Portfolio Ready v1.0.0
 
-Producto desarrollado para convertir una cartera abierta en una cola de gestión accionable. Prioriza cuentas por riesgo e impacto, explica los factores del puntaje, recomienda la siguiente acción y genera un borrador editable sujeto a revisión humana.
+Aplicación para convertir una cartera abierta en una cola de trabajo explicable y gestionable. Prioriza cuentas, muestra las señales que sostienen el puntaje y permite registrar el seguimiento sin perder el control humano.
 
-- Scoring explicable basado en saldo vencido, mora, límite de crédito y concentración.
-- Priorización orientada a la gestión diaria.
-- Recomendaciones y borradores editables.
-- Diseño human-in-the-loop: ninguna comunicación se envía automáticamente.
+<p align="center">
+  <a href="https://codercup-cobranzas-ai.streamlit.app/">
+    <img src="https://raw.githubusercontent.com/mnoero23/codercup-cobranzas-ai/main/docs/assets/cobranzas-ai-dashboard.jpg" alt="Vista ejecutiva de Cobranzas AI" width="100%">
+  </a>
+</p>
 
-[Demo en vivo](https://codercup-cobranzas-ai.streamlit.app/) · [Repositorio](https://github.com/mnoero23/codercup-cobranzas-ai)
+- Scoring determinístico basado en saldo vencido, mora, uso del crédito y concentración.
+- Gestión de estados, responsables, notas y compromisos de pago.
+- Historial de acciones y exclusión de casos resueltos de la cola activa.
+- Recomendaciones y borradores editables bajo revisión humana.
+- Datos sintéticos, pruebas automatizadas y controles de calidad.
+
+[Demo en vivo](https://codercup-cobranzas-ai.streamlit.app/) · [Repositorio](https://github.com/mnoero23/codercup-cobranzas-ai) · [Versión estable v1.0.0](https://github.com/mnoero23/codercup-cobranzas-ai/releases/tag/v1.0.0)
 
 ## En qué estoy trabajando
 
