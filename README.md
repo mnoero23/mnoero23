@@ -6,9 +6,20 @@
 
 Transformo datos en decisiones y construyo soluciones que resuelven problemas reales de forma clara, útil y profesional.
 
-Trabajo en la intersección entre Data Analytics, Business Intelligence, automatización y productos de datos, combinando experiencia de negocio con herramientas técnicas.
+Trabajo en la intersección entre Data Analytics, Business Intelligence, automatización y productos digitales, combinando experiencia de negocio con herramientas técnicas.
 
 ## Proyectos destacados
+
+### ALQIVO · Producto activo en desarrollo
+
+Plataforma digital para organizar y simplificar la gestión de alquileres. Es un producto en construcción y validación continua, desarrollado a partir de necesidades operativas reales.
+
+- Organización centralizada de la operación.
+- Experiencia web pensada para escritorio y dispositivos móviles.
+- Desarrollo incremental mediante sprints y validación continua.
+- Repositorio privado mientras el producto continúa evolucionando.
+
+[Conocer ALQIVO](https://alqivo.vercel.app/)
 
 ### Envaplast Analytics · Proyecto insignia
 
@@ -48,6 +59,7 @@ Aplicación para convertir una cartera abierta en una cola de trabajo explicable
 
 ## En qué estoy trabajando
 
+- **ALQIVO** — construcción y validación de un producto digital para la gestión de alquileres.
 - Automatización de procesos y herramientas internas.
 - Productos de datos aplicados a finanzas, operaciones y Oil & Gas.
 - **MN8** — estudio personal para construir productos, conocimiento y una vida profesional con intención.
